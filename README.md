@@ -5,6 +5,9 @@
 ### Original script created
 5/11/2021 12:05AM
 
+### Number of submissions in total
+3
+
 ### Project Title
 bikeshare_script_final
 
