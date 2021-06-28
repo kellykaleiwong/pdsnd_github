@@ -103,10 +103,10 @@ def display_raw(df):
 
     while True:
         if ans == 'yes':
-            print(df[i:i+5])
-            ans = input("Would you like to see the next 5 rows of raw data? Yes or No:\n ").lower()
+            print(df[i:i+10])
+            ans = input("Would you like to see the next 10 rows of raw data? Yes or No:\n ").lower()
             if ans == 'yes':
-                i += 5
+                i += 10
             if ans == 'no':
                 break
         if ans == 'no':
